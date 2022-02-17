@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `json-server --watch db.json`
-this commmand will run mock api
+this command will run mock api on 3000 port
 
 ### `npm start`
 
