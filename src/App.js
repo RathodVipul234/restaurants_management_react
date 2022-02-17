@@ -22,8 +22,7 @@ function App() {
         <NavBarMenu />
         <Routes>
           <Route path='/' element={<Home />}></Route>
-          {/* <ProtectedRoutes path='/' component={<Home />} /> */}
-          <Route path='/list' element={<ProtectedRoutes ><RestaurantList /></ProtectedRoutes>}></Route>
+          <Route path='/list' element={<RestaurantList />}></Route>
           <Route path='/detail' element={<RestaurantDetail />}></Route>
           <Route path='/create' element={<RestaurantCreate />}></Route>
           <Route path='/search' element={<RestaurantSearch />}></Route>

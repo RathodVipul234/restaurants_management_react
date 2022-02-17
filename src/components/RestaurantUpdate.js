@@ -9,7 +9,6 @@ import { Button, Form } from 'react-bootstrap'
 
 export default function RestaurantUpdate() {
   const navigate = useNavigate();
-  console.log(navigate)
   const [name, setName] = useState('');
   const [rating, setRating] = useState(0);
   const [email, setEmail] = useState('');
