@@ -1,0 +1,12 @@
+#restaurant-management
+
+#1 make component
+	Restaurant List
+	Restaurant Details
+	Restaurant Search
+	Restaurant Create
+	Restaurant Update
+# create FAKE API using json-server
+#show list of all restaurant using get api call
+
+

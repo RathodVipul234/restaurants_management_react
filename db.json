@@ -1,0 +1,74 @@
+{
+  "login": [
+    {
+      "email": "rv@gmail.com",
+      "password": "admin@123"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "admin@123"
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "admin@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "om",
+      "email": "rv@gmail.com",
+      "address": "asd",
+      "rating": "4",
+      "id": 3
+    },
+    {
+      "name": "oma",
+      "email": "rv@gmail.com",
+      "address": "asd",
+      "rating": "4",
+      "id": 4
+    },
+    {
+      "name": "kflnsdn",
+      "email": "alssdf@gsdf.sdf",
+      "address": "saddf",
+      "rating": "4",
+      "id": 5
+    },
+    {
+      "name": "Vipul Rathod",
+      "email": "rathodv9229@gmail.com",
+      "address": "VADLASHERI ANJAR",
+      "rating": "2",
+      "id": 6
+    },
+    {
+      "name": "Vipul Rathod",
+      "email": "rathodv9229@gmail.com",
+      "address": "VADLASHERI ANJAR",
+      "rating": "2",
+      "id": 7
+    },
+    {
+      "name": "test",
+      "email": "454@sdfm.ds",
+      "address": "sdf",
+      "rating": "4",
+      "id": 8
+    },
+    {
+      "name": "Vipul Rathod",
+      "email": "rathodv9229@gmail.com",
+      "address": "VADLASHERI ANJAR",
+      "rating": "2",
+      "id": 9
+    },
+    {
+      "name": "Vipul Rathod",
+      "email": "rathodv9229@gmail.com",
+      "address": "VADLASHERI ANJAR",
+      "rating": "2",
+      "id": 10
+    }
+  ]
+}
